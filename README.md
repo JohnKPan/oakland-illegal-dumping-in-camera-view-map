@@ -1,6 +1,6 @@
 # Oakland illegal dumping vs. ALPR cameras
 
-**Map:** https://johnkpan.github.io/oakland-illegal-dumping-map/
+**Map:** https://johnkpan.github.io/oakland-illegal-dumping-in-camera-view-map/
 
 An interactive map of illegal-dumping reports filed in Oakland, California over the last 60 days,
 drawn against the automated license plate reader (ALPR) cameras mapped on OpenStreetMap. It shows
